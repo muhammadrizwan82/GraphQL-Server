@@ -1,0 +1,64 @@
+{
+    "authors": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "birthDate": "1980-05-15",
+            "nationality": "American"
+        },
+        {
+            "id": 2,
+            "name": "John Smith",
+            "birthDate": "1975-12-10",
+            "nationality": "British"
+        },
+        {
+            "id": 3,
+            "name": "Alex Johnson",
+            "birthDate": "1992-08-25",
+            "nationality": "Canadian"
+        },
+        {
+            "id": 4,
+            "name": "John White",
+            "birthDate": "1988-03-18",
+            "nationality": "Australian"
+        },
+        {
+            "id": 5,
+            "name": "Carlos Rodriguez",
+            "birthDate": "1972-06-22",
+            "nationality": "Spanish"
+        },
+        {
+            "id": 6,
+            "name": "Mia Kim",
+            "birthDate": "1995-11-30",
+            "nationality": "South Korean"
+        },
+        {
+            "id": 7,
+            "name": "Ahmed Khan",
+            "birthDate": "1983-09-05",
+            "nationality": "Indian"
+        },
+        {
+            "id": 8,
+            "name": "Elena Martinez",
+            "birthDate": "1979-12-03",
+            "nationality": "Mexican"
+        },
+        {
+            "id": 9,
+            "name": "Tariq Ali",
+            "birthDate": "1965-02-15",
+            "nationality": "Pakistani"
+        },
+        {
+            "id": 10,
+            "name": "Sophie Leclair",
+            "birthDate": "1986-07-08",
+            "nationality": "French"
+        }
+    ]
+}
